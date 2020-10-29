@@ -7,4 +7,4 @@ To use LegalBot AI Tools you need an API Key. [Get API Key](https://law.develope
 Choose your subscription product and sign up / sign in.
 
 ### Support
-We have dedicated [Support](https://legalbot.io/crm "LegalBot AI Tools Customer Support")
+Dedicated [Support](https://legalbot.io/crm "LegalBot AI Tools Customer Support") for LegalBot AI Tools.
