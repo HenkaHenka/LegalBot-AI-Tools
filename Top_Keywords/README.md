@@ -6,7 +6,7 @@ The connector allows you to extract top keywords from a document or webpages. Mo
 - template with button trigger to get started with keywords
 
 ### Access with API Key
-To use LegalBot AI Tools you need an API Key. [Get API Key](https://legalbot-ai-tools.com "LegalBot AI Tools API Key")
+To use LegalBot AI Tools you need an API Key. [Get API Key](http://legalbot-ai-tools.com "LegalBot AI Tools API Key")
 
 Choose your subscription product and sign up / sign in.
 

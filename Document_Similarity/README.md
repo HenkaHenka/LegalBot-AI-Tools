@@ -6,7 +6,7 @@ The document similarity connector allows you to compare two documents or webpage
 - template with button trigger to get started with comparing documents
 
 ### Access with API Key
-To use LegalBot AI Tools you need an API Key. [Get API Key](https://legalbot-ai-tools.com "LegalBot AI Tools API Key")
+To use LegalBot AI Tools you need an API Key. [Get API Key](http://legalbot-ai-tools.com "LegalBot AI Tools API Key")
 
 Choose your subscription product and sign up / sign in.
 
